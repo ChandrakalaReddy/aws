@@ -1,0 +1,6 @@
+AWS:
+ Introduction to AWS
+ AWS Account creation & free tier limitations overview
+ EC2 Instance Launch Wizard
+ EC2 Instance Types
+ Generating custom Public Key and Private keys for EC2 instances
